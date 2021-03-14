@@ -7,7 +7,7 @@ Download the application by clicking on the link : https://www.amazon.com/gp/pro
 
 ####NOTE#### :- The Android devices should have Accelerometer and Gyroscope sensor and the user must a VR headset (Google Cardboard).
 
-1. Download Treatment of Phobias.zip file extract it then, Install the application with the Compatible device having Android Version 4.4(KitKat) or higher and the device must have a Accelerometer and Gyroscope Sensor.
+1. Download Treatment of Phobias.zip file or directly download it from https://www.amazon.com/gp/product/B08R8ZNJJ2 extract it then, Install the application with the Compatible device having Android Version 4.4(KitKat) or higher and the device must have a Accelerometer and Gyroscope Sensor.
 2. Click on Start Application option.
 3. Choose your Phobia.
 4. Put the device on Google Cardboard.
