@@ -1,7 +1,7 @@
 # TreatmentOfPhobias
 An Android application for Treatment of Phobias with the help of Virtual Reality using Google Cardboard
 
-Download the application by clicking on the link : https://www.amazon.in/Ayusoft-Treatment-of-Phobias/dp/B08R8ZNJJ2/ref=sr_1_1?dchild=1&keywords=phobia+treatment&qid=1615702289&s=mobile-apps&sr=1-1
+Download the application by clicking on the link : https://www.amazon.com/gp/product/B08R8ZNJJ2
 
 #################### Steps to run this application #########################
 
