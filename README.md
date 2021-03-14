@@ -1,13 +1,13 @@
 # TreatmentOfPhobias
 An Android application for Treatment of Phobias with the help of Virtual Reality using Google Cardboard
 
-Download the application by clicking on the link : https://www.amazon.in/Ayusoft-Treatment-of-Phobias/dp/B08R8ZNJJ2/ref=sr_1_1?dchild=1&keywords=phobia+treatment&qid=1615702289&s=mobile-apps&sr=1-1
+Download the application by clicking on the link : https://www.amazon.com/gp/product/B08R8ZNJJ2
 
 #################### Steps to run this application #########################
 
 ####NOTE#### :- The Android devices should have Accelerometer and Gyroscope sensor and the user must a VR headset (Google Cardboard).
 
-1. Download Treatment of Phobias.zip file extract it then, Install this application with the Compatible device having Android Version 4.4(KitKat) or higher and the device must have a Accelerometer and Gyroscope Sensor.
+1. Download Treatment of Phobias.zip file extract it or directly download it from https://www.amazon.com/gp/product/B08R8ZNJJ2 then, Install this application with the Compatible device having Android Version 4.4(KitKat) or higher and the device must have a Accelerometer and Gyroscope Sensor.
 2. Click on Start Application option.
 3. Choose your Phobia.
 4. Put the device on Google Cardboard.
