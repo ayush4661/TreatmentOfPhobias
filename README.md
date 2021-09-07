@@ -1,5 +1,5 @@
 # TreatmentOfPhobias
-An Android application for Treatment of Phobias with the help of Virtual Reality using Google Cardboard
+An Android application for the Treatment of Phobias with the help of Virtual Reality using Google Cardboard
 
 Download the application by clicking on the link : https://www.amazon.com/gp/product/B08R8ZNJJ2
 
